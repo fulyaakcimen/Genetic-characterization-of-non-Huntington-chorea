@@ -13,5 +13,6 @@ This repository contains all analyses for the manuscript titled "Unraveling the 
 ### Analysis notebooks
 
 1. Variant identification in chorea cases from the All of Us dataset
-2. Annotation – The same annotation pipeline was applied across all datasets
-3. In silico analysis of short tandem repeats
+2. Variant identification in chorea cases from the UK Biobank dataset
+3. Annotation – The same annotation pipeline was applied across all datasets
+4. In silico analysis of short tandem repeats
