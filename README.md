@@ -10,3 +10,8 @@ This repository contains all analyses for the manuscript titled "Unraveling the 
 * UK Biobank field ID 131274, accessed in April 2025
 * Spanish Study Group for Genetics of Chorea (SSGGC)
 
+### Analysis notebooks
+
+1. Obtaining variants in chorea cases in the All of Us dataset
+2. Annotation - the same annotation code was used in all datasets
+3. In silico analysis of short tandem repeats
